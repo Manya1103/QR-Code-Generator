@@ -21,6 +21,10 @@ This is a simple QR Code Generator web application. It allows users to generate 
 3. Click the "Generate QR Code" button.
 4. The QR code will be displayed below the input field.
 
+## Live Demo
+
+Try the application live [here](https://manya1103.github.io/QR-Code-Generator/).
+
 ## Project Structure
 
 - `index.html`: The main HTML file containing the structure of the application.
