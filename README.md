@@ -35,3 +35,7 @@ Try the application live [here](https://manya1103.github.io/QR-Code-Generator/).
 ## External API
 
 This project uses the [QR Code Generator API](https://goqr.me/api/) to generate QR codes.
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
